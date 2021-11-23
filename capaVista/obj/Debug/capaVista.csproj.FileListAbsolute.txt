@@ -1,0 +1,126 @@
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.MDI.resources
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.csproj.GenerateResource.cache
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.insertar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.Properties.Resources.resources
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaControlador.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaControlador.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\bin\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.eliminar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.Actualizar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaVista\obj\Debug\capaVista.consultar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaControlador.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaControlador.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.Actualizar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.consultar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.eliminar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.insertar.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.MDI.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.Properties.Resources.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.csproj.GenerateResource.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.MDI_KevinGonzalez_0901_18_1387.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.ingresoClientes.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\Bitacora.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\Dapper.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\Bitacora.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.modificacionClientes.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.eliminarCliente.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.consultarCliente.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.ingresarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.actualizarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.eliminarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.consultarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.insertarBodega.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.ingresarTipodePago.resources
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaVista\obj\Debug\capaVista.ingresoFactura.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaControlador.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\Bitacora.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\stdole.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\Dapper.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaControlador.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\Bitacora.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.Actualizar.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.actualizarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.consultar.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.consultarCliente.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.consultarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.eliminar.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.eliminarCliente.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.eliminarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.ingresarProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.ingresarTipodePago.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.ingresoClientes.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.ingresoFactura.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.insertar.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.insertarBodega.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.MDI_KevinGonzalez_0901_18_1387.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.MDI.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.modificacionClientes.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.Properties.Resources.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.reporteCliente.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.csproj.GenerateResource.cache
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.dll
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.pdb
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.reporteFactura.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.reporteBodega.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.reporteProducto.resources
+C:\Users\Gonza\OneDrive\Escritorio\ventas con reportes\Examen\capaVista\obj\Debug\capaVista.reportetipoPago.resources

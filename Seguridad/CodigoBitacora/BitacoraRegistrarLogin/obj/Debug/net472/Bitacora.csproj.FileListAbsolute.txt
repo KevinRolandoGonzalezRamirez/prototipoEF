@@ -1,0 +1,12 @@
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Dapper.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\System.Data.Odbc.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfoInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfo.cs
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb

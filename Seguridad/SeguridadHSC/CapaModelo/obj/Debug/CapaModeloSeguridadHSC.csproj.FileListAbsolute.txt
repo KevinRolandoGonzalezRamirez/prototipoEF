@@ -1,0 +1,6 @@
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb

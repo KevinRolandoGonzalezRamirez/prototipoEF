@@ -1,0 +1,12 @@
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\bin\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\bin\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\obj\Debug\capaModelo.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\obj\Debug\capaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\obj\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Examen\Examen\capaModelo\obj\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\bin\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\bin\Debug\capaModelo.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\obj\Debug\capaModelo.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\obj\Debug\capaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\obj\Debug\capaModelo.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\capaModelo\obj\Debug\capaModelo.pdb

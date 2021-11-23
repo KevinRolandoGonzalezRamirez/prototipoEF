@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F036C3B-7436-4055-A353-79B0D19B0E65}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>capaVista</RootNamespace>
+    <AssemblyName>capaVista</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="capaControlador">
+      <HintPath>..\capaControlador\bin\Debug\capaControlador.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVistaSeguridadHSC">
+      <HintPath>..\Seguridad\SeguridadHSC\CapaVista\bin\Debug\CapaVistaSeguridadHSC.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar.Designer.cs">
+      <DependentUpon>Actualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="actualizarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="actualizarProducto.Designer.cs">
+      <DependentUpon>actualizarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultar.Designer.cs">
+      <DependentUpon>consultar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarCliente.Designer.cs">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consultarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consultarProducto.Designer.cs">
+      <DependentUpon>consultarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrystalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="eliminar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminar.Designer.cs">
+      <DependentUpon>eliminar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eliminarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminarCliente.Designer.cs">
+      <DependentUpon>eliminarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="eliminarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="eliminarProducto.Designer.cs">
+      <DependentUpon>eliminarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ingresarProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresarProducto.Designer.cs">
+      <DependentUpon>ingresarProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ingresarTipodePago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresarTipodePago.Designer.cs">
+      <DependentUpon>ingresarTipodePago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ingresoClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresoClientes.Designer.cs">
+      <DependentUpon>ingresoClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ingresoFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ingresoFactura.Designer.cs">
+      <DependentUpon>ingresoFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertar.Designer.cs">
+      <DependentUpon>insertar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="insertarBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="insertarBodega.Designer.cs">
+      <DependentUpon>insertarBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI-KevinGonzalez-0901-18-1387.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI-KevinGonzalez-0901-18-1387.Designer.cs">
+      <DependentUpon>MDI-KevinGonzalez-0901-18-1387.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.cs">
+      <DependentUpon>MDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificacionClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificacionClientes.Designer.cs">
+      <DependentUpon>modificacionClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="reporteBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteBodega.Designer.cs">
+      <DependentUpon>reporteBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteCliente.Designer.cs">
+      <DependentUpon>reporteCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteFactura.Designer.cs">
+      <DependentUpon>reporteFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reporteProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reporteProducto.Designer.cs">
+      <DependentUpon>reporteProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportetipoPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportetipoPago.Designer.cs">
+      <DependentUpon>reportetipoPago.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Actualizar.resx">
+      <DependentUpon>Actualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="actualizarProducto.resx">
+      <DependentUpon>actualizarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultar.resx">
+      <DependentUpon>consultar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarCliente.resx">
+      <DependentUpon>consultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consultarProducto.resx">
+      <DependentUpon>consultarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminar.resx">
+      <DependentUpon>eliminar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminarCliente.resx">
+      <DependentUpon>eliminarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="eliminarProducto.resx">
+      <DependentUpon>eliminarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresarProducto.resx">
+      <DependentUpon>ingresarProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresarTipodePago.resx">
+      <DependentUpon>ingresarTipodePago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresoClientes.resx">
+      <DependentUpon>ingresoClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ingresoFactura.resx">
+      <DependentUpon>ingresoFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertar.resx">
+      <DependentUpon>insertar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="insertarBodega.resx">
+      <DependentUpon>insertarBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI-KevinGonzalez-0901-18-1387.resx">
+      <DependentUpon>MDI-KevinGonzalez-0901-18-1387.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <DependentUpon>MDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificacionClientes.resx">
+      <DependentUpon>modificacionClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteBodega.resx">
+      <DependentUpon>reporteBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteCliente.resx">
+      <DependentUpon>reporteCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteFactura.resx">
+      <DependentUpon>reporteFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteProducto.resx">
+      <DependentUpon>reporteProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportetipoPago.resx">
+      <DependentUpon>reportetipoPago.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

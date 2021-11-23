@@ -1,0 +1,10 @@
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.AssemblyReference.cache
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+C:\Users\Gonza\OneDrive\Escritorio\Ventas\Examen\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb
